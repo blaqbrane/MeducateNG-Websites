@@ -1,8 +1,8 @@
 {
   "name": "tourist-app",
-  "homepage": "http://www.blaqbrane.com/",
+  "homepage": "https://blaqbrane.github.io/Tourist-App/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "get-photo-url": "^1.0.3",
     "react": "^18.2.0",
