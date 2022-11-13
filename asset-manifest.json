@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b2690cd.css",
-    "main.js": "/static/js/main.d48c1f5b.js",
-    "static/media/beachVid.mp4": "/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
-    "static/media/keywest.jpg": "/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "index.html": "/index.html",
-    "main.0b2690cd.css.map": "/static/css/main.0b2690cd.css.map",
-    "main.d48c1f5b.js.map": "/static/js/main.d48c1f5b.js.map"
+    "main.css": "/Tourist-App/static/css/main.0b2690cd.css",
+    "main.js": "/Tourist-App/static/js/main.ace20995.js",
+    "static/media/beachVid.mp4": "/Tourist-App/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/Tourist-App/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/Tourist-App/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/Tourist-App/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/Tourist-App/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/Tourist-App/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "index.html": "/Tourist-App/index.html",
+    "main.0b2690cd.css.map": "/Tourist-App/static/css/main.0b2690cd.css.map",
+    "main.ace20995.js.map": "/Tourist-App/static/js/main.ace20995.js.map"
   },
   "entrypoints": [
     "static/css/main.0b2690cd.css",
-    "static/js/main.d48c1f5b.js"
+    "static/js/main.ace20995.js"
   ]
 }
